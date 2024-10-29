@@ -1,9 +1,8 @@
 <template>
-  <div class="bg-red-500">
-	  sokoban
-    </div>
+	<router-view/>
 </template>
 <script setup lang="ts">
+
 
 </script>
 <style scoped>
